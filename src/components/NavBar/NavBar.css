@@ -1,0 +1,22 @@
+.events {
+    color: white;
+    font-weight: strong;
+}
+
+span {
+    font-weight: bold;
+    color: white;
+    font-style: italic;
+}
+
+.logout {
+    color: white;
+}
+
+.logo {
+    width: 60px
+}
+
+.favorites {
+    color: white;
+}

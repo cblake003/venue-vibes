@@ -1,0 +1,7 @@
+.selected-Event {
+    padding: 10px 20px;
+}
+
+.selected-Event:hover {
+    background-color: #efefef;
+}
