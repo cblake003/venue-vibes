@@ -5,7 +5,6 @@ import SearchResultsList from "../SearchResultsList/SearchResultsList";
 
 export const SearchBar = ({ setResults }) => {
     const [input, setInput] = useState("");
-    console.log(process.env.REACT_APP_CONSUMER_KEY, "this is the key")
     const apiKey = process.env.REACT_APP_CONSUMER_KEY;
 
     const fetchData = async (value) => {
