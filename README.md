@@ -28,7 +28,7 @@ When clicking the Favorite Events navigation link, the page will navigate to the
 
 ![Imgur](https://i.imgur.com/GhMhyQV.jpg)
 
-Click here to check out my version of Venue Vibes!
+Click here <a href="https://venue-vibes-f97a8766e764.herokuapp.com"/> to check out my version of Venue Vibes!
 
 Next Steps:
 I plan to update this app with the ability to delete an event from the favorites list. I also want to extend the list of events that will populate once a suggestion is typed into the search bar as the Ticketmaster API only calls for 20 events to be listed at a time currently. I'll also update the styling for the app overall just to give a little more pop while users scroll around.
